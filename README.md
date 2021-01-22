@@ -1,3 +1,9 @@
+This app features a Pokemon card game: Pokedex.
+Where we select 2 group of 4 random generated cards.
+The hand with more experience point added together wins the game.
+On each reload a random deck is created and score is calculated.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
